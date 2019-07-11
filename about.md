@@ -5,7 +5,7 @@ title: About
 
 ## I am Juncheng. 
 
-## _/#Tech, /#Hackathon Fan and Orgnizer, /#Maker_
+## _#Tech, #Hackathon Fan and Orgnizer, #Maker_
 
 
 ### Garage Skill-Set:
@@ -18,6 +18,7 @@ Django, Vue.js, React.js, React Native, Bootstrap, Node.js, SQL Server, MongoDB,
 
 
 
-Please show me the code because
+
 	
-	"Salvation lies within."
+	Please show me the code because 
+		"Salvation lies within."
