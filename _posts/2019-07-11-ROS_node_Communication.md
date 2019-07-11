@@ -3,8 +3,6 @@ title: ROS_Node_Communication
 published: true
 ---
 
-# [](#header-1) ROS
-
 ### [](#header-3) Concepts
 
 工作空间是一个包含功能包、可编辑源文件或者编译包的文件夹。
