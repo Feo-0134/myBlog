@@ -5,7 +5,7 @@ title: About
 
 ## I am Juncheng. 
 
-## _#Tech, #Hackathon Fan and Orgnizer, #Maker_
+## _#Tech #Hackathon Fan and Orgnizer #Maker_
 
 
 ### Garage Skill-Set:
