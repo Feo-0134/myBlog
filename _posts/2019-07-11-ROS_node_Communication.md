@@ -1,11 +1,11 @@
 ---
-title: Sample Page
+title: ROS_Node_Communication
 published: true
 ---
 
 # [](#header-1) ROS
 
-### ### [](#header-3) Concepts
+### [](#header-3) Concepts
 
 工作空间是一个包含功能包、可编辑源文件或者编译包的文件夹。
 
@@ -159,15 +159,11 @@ rosrun chapter2_tutorials chap2_example1_b
 rqt_graph
 ```
 
+![Screen Shot 2019-07-10 at 9.39.23 AM.png](https://i.loli.net/2019/07/11/5d26dd7e4dba667276.png)
 
+![Screen Shot 2019-07-10 at 9.39.34 AM.png](https://i.loli.net/2019/07/11/5d26dd9c1dfa740271.png)
 
-![../Desktop/Screen%20Shot%202019-07-11%20at%2010.37.43%20AM.png](file:////Users/junchengzhu/Library/Group%20Containers/UBF8T346G9.Office/msoclip1/01/clip_image002.gif)
-
-![../Desktop/Screen%20Shot%202019-07-11%20at%2010.37.25%20AM.png](file:////Users/junchengzhu/Library/Group%20Containers/UBF8T346G9.Office/msoclip1/01/clip_image004.gif)
-
-
-
-![../Desktop/Screen%20Shot%202019-07-11%20at%2010.38.38%20AM.png](file:////Users/junchengzhu/Library/Group%20Containers/UBF8T346G9.Office/msoclip1/01/clip_image006.gif)
+![Screen Shot 2019-07-11 at 10.38.38 AM.png](https://i.loli.net/2019/07/11/5d26ddbd02fc674507.png)
 
 使用rqt_graph命令能够创建一个显示当前系统运行情况的动态图形，如图所示。
 
