@@ -35,7 +35,7 @@ What to build, How to build and how to work together.
 
  
 
-最后，我们应该理性看待Agile。Agile并不是什么秘籍，也不是所有Project都应该使用Agile。Agile只是对现在商业模式急速变化，商机稍纵即逝，软件开发相对应用于降低风险，快速体现价值的方法。附图：
+最后，我们应该理性看待Agile。Agile并不是什么秘籍，也不是所有Project都应该使用Agile。Agile只是对现在商业模式急速变化，商机稍纵即逝，软件开发相对应用于降低风险，快速体现价值的方法。
 
  
 
