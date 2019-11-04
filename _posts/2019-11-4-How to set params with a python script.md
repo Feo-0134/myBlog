@@ -3,8 +3,6 @@ title: How to set params with a python script
 published: true
 ---
 
-# How to set params with a python script
-
 ```python
 import sys
 
