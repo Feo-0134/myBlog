@@ -4,6 +4,8 @@
 
 Demo: [https://ashishchaudhary.in/hacker-blog](https://ashishchaudhary.in/hacker-blog)
 
+$1^3$ + $2^3$ = 9
+
 ### Included
 
 1. Pagination
