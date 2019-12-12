@@ -4,8 +4,6 @@
 
 Demo: [https://ashishchaudhary.in/hacker-blog](https://ashishchaudhary.in/hacker-blog)
 
-ax^{2} + by^{2} + c = 0
-
 ### Included
 
 1. Pagination
