@@ -4,7 +4,7 @@
 
 Demo: [https://ashishchaudhary.in/hacker-blog](https://ashishchaudhary.in/hacker-blog)
 
-$1^3$ + $2^3$ = 9
+ax^{2} + by^{2} + c = 0
 
 ### Included
 
